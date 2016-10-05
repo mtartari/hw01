@@ -11,4 +11,7 @@ The cheatsheet is *very* useful. But it is not yet very clear to me how convenie
 ## My experience with GitHub
 I feel quite unsure about how exactly "this" works and how it is supposed to be useful when doing empirical research. But I am very eager to get better at using this tool and reaping the benefits.
 
-I am next going to try to modify this file from within RStudio ... (let's hope it works)
+I am next going to try to modify this file from within RStudio ... (let's hope it works) ... and yes, I made it here. Hurrah!
+
+
+
